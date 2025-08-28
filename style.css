@@ -1,3 +1,8 @@
+nav a.active {
+  color: yellow;
+}
+
+
 :root {
   --prim: #2563eb;   /* Blau */
   --akzent: #f59e0b; /* Orange */
